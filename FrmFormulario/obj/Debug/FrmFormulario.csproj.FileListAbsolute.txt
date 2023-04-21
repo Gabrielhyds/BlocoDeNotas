@@ -1,0 +1,10 @@
+C:\Users\MICRO\source\repos\FrmFormulario\FrmFormulario\bin\Debug\FrmFormulario.exe.config
+C:\Users\MICRO\source\repos\FrmFormulario\FrmFormulario\bin\Debug\FrmFormulario.exe
+C:\Users\MICRO\source\repos\FrmFormulario\FrmFormulario\bin\Debug\FrmFormulario.pdb
+C:\Users\MICRO\source\repos\FrmFormulario\FrmFormulario\obj\Debug\FrmFormulario.csproj.AssemblyReference.cache
+C:\Users\MICRO\source\repos\FrmFormulario\FrmFormulario\obj\Debug\FrmFormulario.Form1.resources
+C:\Users\MICRO\source\repos\FrmFormulario\FrmFormulario\obj\Debug\FrmFormulario.Properties.Resources.resources
+C:\Users\MICRO\source\repos\FrmFormulario\FrmFormulario\obj\Debug\FrmFormulario.csproj.GenerateResource.cache
+C:\Users\MICRO\source\repos\FrmFormulario\FrmFormulario\obj\Debug\FrmFormulario.csproj.CoreCompileInputs.cache
+C:\Users\MICRO\source\repos\FrmFormulario\FrmFormulario\obj\Debug\FrmFormulario.exe
+C:\Users\MICRO\source\repos\FrmFormulario\FrmFormulario\obj\Debug\FrmFormulario.pdb
